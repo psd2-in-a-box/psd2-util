@@ -23,7 +23,6 @@ TXTS = ['Bilka, Skalborg',
 
 HEADERS = {'Content-Type': 'application/json'}
 
-
 while True:
     PAYLOAD = {'destinationAccountNumber': TO_ACCOUNT,
                'amount': 1000 * random.random(),
