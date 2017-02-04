@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""The Transaction Pump"""
+"""The Transaction Pump continuously pumps money from one account to another"""
 
 import json
 import time
